@@ -13,7 +13,6 @@ This project automates the diagnosis of Alzheimer's disease using brain MRI scan
 - [Requirements](#requirements)
 - [Setup](#setup)
 - [Running the Application](#running-the-application)
-- [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -90,12 +89,5 @@ This project employs a Convolutional Neural Network (CNN) based on the VGG archi
 - **Fully Connected Layers:** Dense layers for classification
 - **Output Layer:** Softmax activation for predicting the stage of Alzheimer's disease
 
-## Acknowledgements
-
-- The ADNI initiative for providing the dataset.
-- Contributors to the open-source libraries and frameworks used in this project.
-- The developers and researchers whose work inspired and supported this project.
-
 ---
 
-Feel free to further customize this to better fit your project's specific needs.
