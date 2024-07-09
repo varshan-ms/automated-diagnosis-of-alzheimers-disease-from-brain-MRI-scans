@@ -76,7 +76,25 @@ Ensure you have the following software installed:
 
     - **User Login:** Users can log in, upload an MRI scan, and receive a diagnosis (mild, non-demented, very mild dementia). Users can also book appointments with doctors for further consultation.
     - **Doctor Login:** Doctors can log in to view user data, provide precautions and remedies, and confirm appointments.
+  
+## Webpage home
+![Screenshot (19)](https://github.com/varshan-ms/automated-diagnosis-of-alzheimers-disease-from-brain-MRI-scans/assets/170520754/f9e4f904-e783-45c2-af3c-6ce016a1ec58)
 
+## User Login
+ user have to register and login
+![Screenshot (23)](https://github.com/varshan-ms/automated-diagnosis-of-alzheimers-disease-from-brain-MRI-scans/assets/170520754/e306453f-34f3-444c-892f-ce204e5aab60)
+
+## Upload MRI scan
+![Screenshot (21)](https://github.com/varshan-ms/automated-diagnosis-of-alzheimers-disease-from-brain-MRI-scans/assets/170520754/462317a8-7a1c-4ab4-82b2-dddbf2996ad6)
+
+after prediction. it shows the appointment list for user to choose a doctor 
+
+## Doctor Login
+![Screenshot (20)](https://github.com/varshan-ms/automated-diagnosis-of-alzheimers-disease-from-brain-MRI-scans/assets/170520754/b5cdbfbb-d105-44ce-aebf-f94323b1f08d)
+
+doctor will provide the remedies.
+![Screenshot (22)](https://github.com/varshan-ms/automated-diagnosis-of-alzheimers-disease-from-brain-MRI-scans/assets/170520754/c9ba7c9c-6f20-43a9-8e12-bbbff52a6896)
+ 
 ## Deep Learning Model
 
 This project employs a Convolutional Neural Network (CNN) based on the VGG architecture for image classification tasks. The model is trained on MRI scan images to identify different stages of Alzheimer's disease.
