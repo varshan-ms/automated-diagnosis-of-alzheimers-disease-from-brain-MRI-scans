@@ -26,7 +26,6 @@ To set up the project, follow these steps:
 
     ```bash
     git clone https://github.com/varshan-ms/automated-diagnosis-of-alzheimers-disease-from-brain-MRI-scans.git
-    cd automated-diagnosis-alzheimers
     ```
 
 2. **Extract the ZIP File:**
