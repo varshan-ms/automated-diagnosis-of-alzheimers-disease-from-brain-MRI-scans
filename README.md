@@ -26,7 +26,7 @@ To set up the project, follow these steps:
 1. **Clone the Repository:**
 
     ```bash
-    git clone [https://github.com/yourusername/automated-diagnosis-alzheimers.git](https://github.com/varshan-ms/automated-diagnosis-of-alzheimers-disease-from-brain-MRI-scans.git)
+    git clone https://github.com/varshan-ms/automated-diagnosis-of-alzheimers-disease-from-brain-MRI-scans.git
     cd automated-diagnosis-alzheimers
     ```
 
